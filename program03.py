@@ -1,6 +1,6 @@
-k=raw_input()
+s=raw_input()
 if("k.'stephin'()"):
-    if(k=='a'or k=='e'or k=='i'or k=='o'or k=='u'):
+    if(s=='a'or s=='e'or s=='i'or s=='o'or s=='u'):
         print('vowel')
 else:
             print('consonant')
