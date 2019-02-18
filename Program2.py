@@ -1,5 +1,5 @@
 a=int(raw_input())
-if(0==(a%2)):
+if(0==(a%4)):
     print("Even")
 else:
-    print("Odd")
+    print("odd")
